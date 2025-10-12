@@ -22,3 +22,20 @@ It’s my first time installing Linux, and seeing Xubuntu run smoothly on old ha
 
 Now the laptop is ready for the next steps — designing the new body and planning the flexible stand.  
 
+## 10/12/2025 - First Prototype and Laser Cut Assembly  
+
+I designed the 3D CAD model of the new laptop body in Fusion 360 and brought it to life at the fablab using 5 mm MDF on the laser cutter.
+After cutting all the parts, I assembled the monitor and motherboard inside — the first prototype worked great for understanding dimensions and structure!
+
+I also customized Xubuntu by installing a new theme and backgrounds, making the setup look more modern.
+Finally, I uploaded the DXF files to GitHub so anyone can download, modify, or build their own version.
+
+This was a big step toward making LinuxWood a real, working workstation!
+[v2.mp4](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgwNywicHVyIjoiYmxvYl9pZCJ9fQ==--ebf66f7a097c7db066a13d0c0c2cc93dcefb4f47/v2.mp4)
+
+![212fdab1-c467-4d69-8481-624b63b64800.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--3f536b236547a91848ef39e6af71537f3fb32623/212fdab1-c467-4d69-8481-624b63b64800.jpg)
+
+![{3FD7C2A6-7637-4B7F-AB2A-F810B866ADC9}.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--a86f0333a4ad75eddf772d6277cd37adc7823f80/%7B3FD7C2A6-7637-4B7F-AB2A-F810B866ADC9%7D.png)
+
+  
+
