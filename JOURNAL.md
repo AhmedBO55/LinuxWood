@@ -39,3 +39,13 @@ This was a big step toward making LinuxWood a real, working workstation!
 
   
 
+## 10/13/2025 - Improved CAD Model and New Screen Holder  
+
+Today I focused on improving the CAD model after learning a lot from the first prototype.
+I found several design issues during assembly, so I fixed them and added new features, including a custom screen holder for better stability and alignment.
+
+I couldn’t go to the fablab this time because of my busy high school schedule, so I haven’t laser cut or assembled the new version yet.
+Still, the CAD work is progressing well, and the next prototype should be more precise and easier to build.![{226F43C5-9046-47A3-8302-0E2EF6F4A202}.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--ce58a38876c1b643dd62485b70f261ea3dae20d7/%7B226F43C5-9046-47A3-8302-0E2EF6F4A202%7D.png)
+![{1E951A15-71DB-405D-A05C-DAC1F1BC8240}.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--53f0603218b0e1b3ae0b83bcda01b3ca625293ce/%7B1E951A15-71DB-405D-A05C-DAC1F1BC8240%7D.png)
+  
+
