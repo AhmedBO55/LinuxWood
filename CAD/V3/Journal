@@ -1,0 +1,10 @@
+After finishing the 3D model of V2 in the last devpost, I finally had time after my exams to go to the fablab and laser cut the pieces.
+I assembled the V2 model, but during the process I faced several problems with alignment and fitting, and I even broke some parts.
+These issues helped me understand what needed to be improved, so I decided to rebuild everything from zero and create V3.
+
+For V3, I redesigned the CAD model with better measurements and stronger connections, then did another laser cut and assembly.
+This version turned out almost perfect, with all the components fitting correctly and a more stable structure.
+
+I also fixed a long-time problem with the charging port. It used to be unstable, so I removed the jack connectors and soldered the charger directly to the motherboard for a strong and reliable connection.
+
+Now the project is almost complete and fully functional. The only thing left is to add the final support stand to finish the workstation.
