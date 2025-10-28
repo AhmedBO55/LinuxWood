@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **LinuxWood: Reviving an Old Laptop into a Modern Workstation**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/381).
-
-
 ## 10/11/2025 - Day 1 — Giving New Life to the Laptop  
 
 🛠️![ph1.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--43a9c6c2c1a443b575fb8c7171ac7cf08430899f/ph1.jpg)
@@ -47,5 +43,27 @@ I found several design issues during assembly, so I fixed them and added new fea
 I couldn’t go to the fablab this time because of my busy high school schedule, so I haven’t laser cut or assembled the new version yet.
 Still, the CAD work is progressing well, and the next prototype should be more precise and easier to build.![{226F43C5-9046-47A3-8302-0E2EF6F4A202}.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--ce58a38876c1b643dd62485b70f261ea3dae20d7/%7B226F43C5-9046-47A3-8302-0E2EF6F4A202%7D.png)
 ![{1E951A15-71DB-405D-A05C-DAC1F1BC8240}.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--53f0603218b0e1b3ae0b83bcda01b3ca625293ce/%7B1E951A15-71DB-405D-A05C-DAC1F1BC8240%7D.png)
+  
+
+## 10/28/2025 - Building the V3 Model and Final Fixes  
+
+After finishing the 3D model of V2 in the last devpost, I finally had time after my exams to go to the fablab and laser cut the pieces.
+I assembled the V2 model, but during the process I faced several problems with alignment and fitting, and I even broke some parts.
+These issues helped me understand what needed to be improved, so I decided to rebuild everything from zero and create V3.
+
+For V3, I redesigned the CAD model with better measurements and stronger connections, then did another laser cut and assembly.
+This version turned out almost perfect, with all the components fitting correctly and a more stable structure.
+
+I also fixed a long-time problem with the charging port. It used to be unstable, so I removed the jack connectors and soldered the charger directly to the motherboard for a strong and reliable connection.
+
+Now the project is almost complete and fully functional. The only thing left is to add the final support stand to finish the workstation.![1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjI1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--3cd47c70b55294e135c8113ece8d47e66ba832ea/1.jpg)
+![2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjI0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--65a5687c7aff58215e1c561e98dea43eb3198fd4/2.png)
+![3](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjI0NywicHVyIjoiYmxvYl9pZCJ9fQ==--a12fa07dcc20e19be52170a300dd521bc15b21de/3.png)
+![4](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjI0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--aa1bd293a5d7738357bdbaffeaa0b5f1db166b94/4.jpg)
+![5](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjI1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--6813bf4e1e22a8aabbaee447187cd6f2a7fe19d2/5.jpg)
+![6](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjI1MywicHVyIjoiYmxvYl9pZCJ9fQ==--4bb5fc0d505b66f019b807385dcbbb40a8e3ed04/6.jpg)
+
+![7](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjI0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--1797513efbaaa92bd8cb62b0714a3bb92b339590/7.jpg)
+![8](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjI1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--fe12f9530beca9bde36edde7261c6b7d1ebe5b5f/8.jpg)
   
 
