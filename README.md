@@ -56,7 +56,7 @@ You can also customize the theme and backgrounds to make your system look more m
 ## ❤️ Credits
 
 Project by **[ROBOHUB]**  
-Built as part of **Hack Club Blueprint **  
+Built as part of **[Hack Club Blueprint] **  
 Inspired by the idea of giving new life to old hardware through design and creativity.  
 
 ---
