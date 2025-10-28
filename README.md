@@ -49,21 +49,14 @@ You can **build your own version** of LinuxWood using the provided files and you
 ## 🖥️ System setup
 
 The project uses **Xubuntu Linux**, installed using **BalenaEtcher** to flash the ISO to a USB drive.  
-You can also customize the theme and backgrounds to make your system look more modern.
-
----
-
-## 🧩 Files included
-- `/DXF` → all files needed for laser cutting  
-- `/CAD` → 3D design source files (Fusion 360)  
-- `/Images` → photos of prototypes and final version  
+You can also customize the theme and backgrounds to make your system look more modern.  
 
 ---
 
 ## ❤️ Credits
 
-Project by **[Your Name or Hack Club Handle]**  
-Built as part of **Hack Club Blueprint / Summer of Making**  
+Project by **ROBOHUB**  
+Built as part of **Hack Club Blueprint **  
 Inspired by the idea of giving new life to old hardware through design and creativity.  
 
 ---
