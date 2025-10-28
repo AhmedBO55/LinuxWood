@@ -63,4 +63,4 @@ Inspired by the idea of giving new life to old hardware through design and creat
 
 ## ⚙️ License
 
-This project is open source. You can **remix, improve, or build your own version** — just credit the original project when you share it.
+This project is open source. You can **remix, improve, or build your own version** just credit the original project when you share it.
